@@ -8,7 +8,7 @@ This assignment consists of two challenges: PyBank & PyPoll
 ### Background 
 Inside the PyBank > Resources folder, there's a "budget_data" csv file that contains two columns ("Date" and "Profit/Losses")
 
-I created a python script to calculate the following metrics using budget_data.csv:
+Using budget_data.csv, I created a python script to calculate the following metrics:
 - The total number of months included in the dataset
 - The net total amount of "Profit/Losses" over the entire period
 - The changes in "Profit/Losses" over the entire period, and then the average of those changes
@@ -30,7 +30,7 @@ Below are the results for the PyBank Challenge:
 ### Background 
 Inside the PyPoll > Resources folder, there's a "election_data" csv file that contains three columns ("Ballot ID", "County", and "Candidate")
 
-I created a python script to calculate the following metrics using election_data.csv:
+Using election_data.csv, I created a python script to calculate the following metrics:
 - The total number of votes cast
 - A complete list of candidates who received votes
 - The percentage of votes each candidate won
