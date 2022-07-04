@@ -6,7 +6,7 @@ This assignment consists of two challenges: PyBank & PyPoll
 ## PyBank Challenge
 
 ### Background 
-Inside the PyBank > Resources folder, there's a "budget_data.csv" file that contains two columns ("Date" and "Profit/Losses")
+Inside the PyBank > Resources folder, there's a "budget_data" csv file that contains two columns ("Date" and "Profit/Losses")
 
 I created a python script to calculate the following metrics using budget_data.csv:
 - The total number of months included in the dataset
@@ -28,7 +28,7 @@ Below are the results for the PyBank Challenge:
 ## PyPoll Challenge
 
 ### Background 
-Inside the PyPoll > Resources folder, there's a "election_data.csv" file that contains three columns ("Ballot ID", "County", and "Candidate")
+Inside the PyPoll > Resources folder, there's a "election_data" csv file that contains three columns ("Ballot ID", "County", and "Candidate")
 
 I created a python script to calculate the following metrics using election_data.csv:
 - The total number of votes cast
